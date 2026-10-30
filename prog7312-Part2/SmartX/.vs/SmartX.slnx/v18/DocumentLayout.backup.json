@@ -1,0 +1,782 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\views\\telemetrystreamview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\telemetrystreamview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\views\\telemetrystreamview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\telemetrystreamview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\views\\sensoringestionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\sensoringestionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\views\\sensoringestionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\sensoringestionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\views\\meshmatrixview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\meshmatrixview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\views\\meshmatrixview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\meshmatrixview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\views\\mainshellview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\mainshellview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\views\\mainshellview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\mainshellview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\views\\landingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\landingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\views\\landingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\landingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\views\\gatewaymenuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\gatewaymenuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\views\\gatewaymenuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\gatewaymenuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\views\\commandstreamview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\commandstreamview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\views\\commandstreamview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\commandstreamview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\models\\telemetrypacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\models\\telemetrypacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\models\\sensorregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\models\\sensorregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\models\\reportedissue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\models\\reportedissue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\models\\prediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\models\\prediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\models\\deploymentnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\models\\deploymentnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\models\\commandrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\models\\commandrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\controls\\sparklinechart.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\controls\\sparklinechart.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\controls\\sparklinechart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\controls\\sparklinechart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\collections\\telemetrybuffercollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\collections\\telemetrybuffercollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx.api\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx.api\\models\\commandstreammodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\models\\commandstreammodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx.api\\datastructures\\telemetryqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\datastructures\\telemetryqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx.api\\datastructures\\sensortimeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\datastructures\\sensortimeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx.api\\datastructures\\predictiveengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\datastructures\\predictiveengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx.api\\datastructures\\disconnectednodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\datastructures\\disconnectednodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx.api\\datastructures\\deviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\datastructures\\deviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx.api\\datastructures\\criticalalertqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\datastructures\\criticalalertqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx.api\\datastructures\\commandundostack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\datastructures\\commandundostack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx.api\\smartx.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\smartx.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\sample-devices.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:sample-devices.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\emeris\\desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-part2\\smartx\\smartx\\smartx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\smartx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\App.xaml.cs",
+              "RelativeDocumentMoniker": "SmartX\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\App.xaml.cs",
+              "RelativeToolTip": "SmartX\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:37:04.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\App.xaml",
+              "RelativeDocumentMoniker": "SmartX\\App.xaml",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\App.xaml",
+              "RelativeToolTip": "SmartX\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T15:37:00.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TelemetryStreamView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\TelemetryStreamView.xaml.cs",
+              "RelativeDocumentMoniker": "SmartX\\Views\\TelemetryStreamView.xaml.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\TelemetryStreamView.xaml.cs",
+              "RelativeToolTip": "SmartX\\Views\\TelemetryStreamView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T10:03:49.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SensorIngestionView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\SensorIngestionView.xaml.cs",
+              "RelativeDocumentMoniker": "SmartX\\Views\\SensorIngestionView.xaml.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\SensorIngestionView.xaml.cs",
+              "RelativeToolTip": "SmartX\\Views\\SensorIngestionView.xaml.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAswJcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T09:48:56.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SensorIngestionView.xaml",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\SensorIngestionView.xaml",
+              "RelativeDocumentMoniker": "SmartX\\Views\\SensorIngestionView.xaml",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\SensorIngestionView.xaml",
+              "RelativeToolTip": "SmartX\\Views\\SensorIngestionView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T15:34:28.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LandingView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\LandingView.xaml.cs",
+              "RelativeDocumentMoniker": "SmartX\\Views\\LandingView.xaml.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\LandingView.xaml.cs",
+              "RelativeToolTip": "SmartX\\Views\\LandingView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T10:05:00.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SmartX\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\MainWindow.xaml",
+              "RelativeToolTip": "SmartX\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-14T11:54:01.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SmartX\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SmartX\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T10:05:22.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TelemetryStreamView.xaml",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\TelemetryStreamView.xaml",
+              "RelativeDocumentMoniker": "SmartX\\Views\\TelemetryStreamView.xaml",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\TelemetryStreamView.xaml",
+              "RelativeToolTip": "SmartX\\Views\\TelemetryStreamView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T15:35:39.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MeshMatrixView.xaml",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\MeshMatrixView.xaml",
+              "RelativeDocumentMoniker": "SmartX\\Views\\MeshMatrixView.xaml",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\MeshMatrixView.xaml",
+              "RelativeToolTip": "SmartX\\Views\\MeshMatrixView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T15:32:04.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MeshMatrixView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\MeshMatrixView.xaml.cs",
+              "RelativeDocumentMoniker": "SmartX\\Views\\MeshMatrixView.xaml.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\MeshMatrixView.xaml.cs",
+              "RelativeToolTip": "SmartX\\Views\\MeshMatrixView.xaml.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAiwG8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T10:03:08.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainShellView.xaml",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\MainShellView.xaml",
+              "RelativeDocumentMoniker": "SmartX\\Views\\MainShellView.xaml",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\MainShellView.xaml",
+              "RelativeToolTip": "SmartX\\Views\\MainShellView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T09:34:41.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "SmartX\\Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "SmartX\\Views\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:44:17.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CommandStreamView.xaml",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\CommandStreamView.xaml",
+              "RelativeDocumentMoniker": "SmartX\\Views\\CommandStreamView.xaml",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\CommandStreamView.xaml",
+              "RelativeToolTip": "SmartX\\Views\\CommandStreamView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T09:46:29.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Services\\NavigationService.cs",
+              "RelativeDocumentMoniker": "SmartX\\Services\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Services\\NavigationService.cs",
+              "RelativeToolTip": "SmartX\\Services\\NavigationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T09:59:52.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainShellView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\MainShellView.xaml.cs",
+              "RelativeDocumentMoniker": "SmartX\\Views\\MainShellView.xaml.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\MainShellView.xaml.cs",
+              "RelativeToolTip": "SmartX\\Views\\MainShellView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T09:35:57.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "SmartX\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\LoginView.xaml",
+              "RelativeToolTip": "SmartX\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-15T12:46:51.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GatewayMenuView.xaml",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\GatewayMenuView.xaml",
+              "RelativeDocumentMoniker": "SmartX\\Views\\GatewayMenuView.xaml",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\GatewayMenuView.xaml",
+              "RelativeToolTip": "SmartX\\Views\\GatewayMenuView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T10:02:32.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SensorTimeline.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\DataStructures\\SensorTimeline.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\DataStructures\\SensorTimeline.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\DataStructures\\SensorTimeline.cs",
+              "RelativeToolTip": "SmartX.Api\\DataStructures\\SensorTimeline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T14:47:26.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TelemetryBufferCollection.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Collections\\TelemetryBufferCollection.cs",
+              "RelativeDocumentMoniker": "SmartX\\Collections\\TelemetryBufferCollection.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Collections\\TelemetryBufferCollection.cs",
+              "RelativeToolTip": "SmartX\\Collections\\TelemetryBufferCollection.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:05:58.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GatewayMenuView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\GatewayMenuView.xaml.cs",
+              "RelativeDocumentMoniker": "SmartX\\Views\\GatewayMenuView.xaml.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\GatewayMenuView.xaml.cs",
+              "RelativeToolTip": "SmartX\\Views\\GatewayMenuView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T10:02:37.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LandingView.xaml",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\LandingView.xaml",
+              "RelativeDocumentMoniker": "SmartX\\Views\\LandingView.xaml",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\LandingView.xaml",
+              "RelativeToolTip": "SmartX\\Views\\LandingView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T15:26:11.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommandStreamView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\CommandStreamView.xaml.cs",
+              "RelativeDocumentMoniker": "SmartX\\Views\\CommandStreamView.xaml.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Views\\CommandStreamView.xaml.cs",
+              "RelativeToolTip": "SmartX\\Views\\CommandStreamView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:49:13.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CommandRecord.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Models\\CommandRecord.cs",
+              "RelativeDocumentMoniker": "SmartX\\Models\\CommandRecord.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Models\\CommandRecord.cs",
+              "RelativeToolTip": "SmartX\\Models\\CommandRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:07:58.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DeploymentNode.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Models\\DeploymentNode.cs",
+              "RelativeDocumentMoniker": "SmartX\\Models\\DeploymentNode.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Models\\DeploymentNode.cs",
+              "RelativeToolTip": "SmartX\\Models\\DeploymentNode.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBEAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:08:11.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "SmartX\\Models\\Device.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Models\\Device.cs",
+              "RelativeToolTip": "SmartX\\Models\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:10:55.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Prediction.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Models\\Prediction.cs",
+              "RelativeDocumentMoniker": "SmartX\\Models\\Prediction.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Models\\Prediction.cs",
+              "RelativeToolTip": "SmartX\\Models\\Prediction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:12:41.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ReportedIssue.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Models\\ReportedIssue.cs",
+              "RelativeDocumentMoniker": "SmartX\\Models\\ReportedIssue.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Models\\ReportedIssue.cs",
+              "RelativeToolTip": "SmartX\\Models\\ReportedIssue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:14:02.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "SmartX\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Services\\AuthService.cs",
+              "RelativeToolTip": "SmartX\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:19:30.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TelemetryPacket.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Models\\TelemetryPacket.cs",
+              "RelativeDocumentMoniker": "SmartX\\Models\\TelemetryPacket.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Models\\TelemetryPacket.cs",
+              "RelativeToolTip": "SmartX\\Models\\TelemetryPacket.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwBQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:16:01.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "SmartX\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Services\\ApiService.cs",
+              "RelativeToolTip": "SmartX\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T09:44:13.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SensorRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Models\\SensorRegistration.cs",
+              "RelativeDocumentMoniker": "SmartX\\Models\\SensorRegistration.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Models\\SensorRegistration.cs",
+              "RelativeToolTip": "SmartX\\Models\\SensorRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:14:56.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DisconnectedNodes.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\DataStructures\\DisconnectedNodes.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\DataStructures\\DisconnectedNodes.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\DataStructures\\DisconnectedNodes.cs",
+              "RelativeToolTip": "SmartX.Api\\DataStructures\\DisconnectedNodes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T14:37:55.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "sample-devices.txt",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\sample-devices.txt",
+              "RelativeDocumentMoniker": "sample-devices.txt",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\sample-devices.txt",
+              "RelativeToolTip": "sample-devices.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-19T09:50:25.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SmartX.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\SmartX.Api.csproj",
+              "RelativeDocumentMoniker": "SmartX.Api\\SmartX.Api.csproj",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\SmartX.Api.csproj",
+              "RelativeToolTip": "SmartX.Api\\SmartX.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-19T09:36:59.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SparklineChart.xaml",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Controls\\SparklineChart.xaml",
+              "RelativeDocumentMoniker": "SmartX\\Controls\\SparklineChart.xaml",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Controls\\SparklineChart.xaml",
+              "RelativeToolTip": "SmartX\\Controls\\SparklineChart.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T09:32:23.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SparklineChart.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Controls\\SparklineChart.xaml.cs",
+              "RelativeDocumentMoniker": "SmartX\\Controls\\SparklineChart.xaml.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\Controls\\SparklineChart.xaml.cs",
+              "RelativeToolTip": "SmartX\\Controls\\SparklineChart.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T09:32:57.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TelemetryQueue.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\DataStructures\\TelemetryQueue.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\DataStructures\\TelemetryQueue.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\DataStructures\\TelemetryQueue.cs",
+              "RelativeToolTip": "SmartX.Api\\DataStructures\\TelemetryQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T14:48:43.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\Services\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\Services\\EncryptionService.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\Services\\EncryptionService.cs",
+              "RelativeToolTip": "SmartX.Api\\Services\\EncryptionService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T14:56:35.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\Program.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\Program.cs",
+              "RelativeToolTip": "SmartX.Api\\Program.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAuwBwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T09:42:32.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartX.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\appsettings.json",
+              "RelativeToolTip": "SmartX.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-19T09:38:25.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CommandStreamModels.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\Models\\CommandStreamModels.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\Models\\CommandStreamModels.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\Models\\CommandStreamModels.cs",
+              "RelativeToolTip": "SmartX.Api\\Models\\CommandStreamModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T14:50:01.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\Services\\AuthService.cs",
+              "RelativeToolTip": "SmartX.Api\\Services\\AuthService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwCIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T09:40:12.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PredictiveEngine.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\DataStructures\\PredictiveEngine.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\DataStructures\\PredictiveEngine.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\DataStructures\\PredictiveEngine.cs",
+              "RelativeToolTip": "SmartX.Api\\DataStructures\\PredictiveEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T09:41:41.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CriticalAlertQueue.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\DataStructures\\CriticalAlertQueue.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\DataStructures\\CriticalAlertQueue.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\DataStructures\\CriticalAlertQueue.cs",
+              "RelativeToolTip": "SmartX.Api\\DataStructures\\CriticalAlertQueue.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwCsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T14:33:53.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DeviceRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\DataStructures\\DeviceRegistry.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\DataStructures\\DeviceRegistry.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\DataStructures\\DeviceRegistry.cs",
+              "RelativeToolTip": "SmartX.Api\\DataStructures\\DeviceRegistry.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T09:41:04.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CommandUndoStack.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\DataStructures\\CommandUndoStack.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\DataStructures\\CommandUndoStack.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX.Api\\DataStructures\\CommandUndoStack.cs",
+              "RelativeToolTip": "SmartX.Api\\DataStructures\\CommandUndoStack.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T14:31:30.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SmartX.csproj",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\SmartX.csproj",
+              "RelativeDocumentMoniker": "SmartX\\SmartX.csproj",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\prog7312-2026-prog7312-part-2-sango-tapiwa\\prog7312-Part2\\SmartX\\SmartX\\SmartX.csproj",
+              "RelativeToolTip": "SmartX\\SmartX.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-19T09:30:15.048Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

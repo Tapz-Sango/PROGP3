@@ -1,0 +1,5 @@
+1C:46:79:A5:5C:E5,Pump A,Hydroponic Zone A,Actuator
+AD:76:E3:5F:59:93,Temp Sensor C,Greenhouse 3,Temperature
+BF:31:42:27:DF:47,Relay West,Utility Room,Actuator
+A4:C1:38:9B:4F:10,Moisture Sensor B,Hydroponic Zone B,Moisture
+C8:2B:96:11:02:AA,Utility Grid Meter 1,Utility Room,Power

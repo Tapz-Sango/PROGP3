@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="sample-devices.txt" />
+  </Folder>
+  <Project Path="SmartX.Api/SmartX.Api.csproj" />
+  <Project Path="SmartX/SmartX.csproj" />
+</Solution>

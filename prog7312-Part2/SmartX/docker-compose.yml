@@ -1,0 +1,7 @@
+services:
+  smartx-api:
+    build: .
+    ports:
+      - "5245:5245"
+    volumes:
+      - ./SmartX.Api/Uploads:/app/Uploads

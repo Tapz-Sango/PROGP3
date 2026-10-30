@@ -1,0 +1,149 @@
+﻿<UserControl x:Class="SmartX.Views.MainShellView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--  TAB BAR  -->
+        <Border Grid.Row="0" Background="{StaticResource CardBg}"
+                BorderBrush="{StaticResource BorderBrushColor}" BorderThickness="0,0,0,1"
+                Padding="24,0">
+            <DockPanel>
+                <StackPanel Orientation="Horizontal" DockPanel.Dock="Right" VerticalAlignment="Center">
+                    <Border Background="#F1F5F9" CornerRadius="14" Padding="12,6" Margin="0,0,8,0">
+                        <StackPanel Orientation="Horizontal">
+                            <Ellipse Width="8" Height="8" Fill="{StaticResource AccentGreen}" Margin="0,0,8,0"/>
+                            <TextBlock x:Name="TxtUser" Text="guest@smartx.io" Foreground="{StaticResource TextPrimary}"
+                                       FontSize="11" FontWeight="SemiBold"/>
+                        </StackPanel>
+                    </Border>
+                    <Button Content="Logout" Click="BtnLogout_Click"
+                            Background="Transparent" Foreground="{StaticResource AccentRed}"
+                            FontWeight="SemiBold" BorderThickness="0" Cursor="Hand"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,8,0,0">
+                    <Button x:Name="Tab1" Content="1. Sensor Ingestion &amp; Telemetry"
+                            Click="Tab1_Click"
+                            Background="Transparent" Foreground="{StaticResource TextSecondary}"
+                            FontWeight="SemiBold" FontSize="13" BorderThickness="0"
+                            Padding="16,14,16,16" Cursor="Hand">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border x:Name="bd" Background="Transparent" Padding="{TemplateBinding Padding}"
+                                        BorderThickness="0,0,0,3" BorderBrush="Transparent">
+                                    <ContentPresenter/>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter TargetName="bd" Property="Background" Value="#F1F5F9"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+
+                    <Button x:Name="Tab2" Content="2. Real-Time Command Stream"
+                            Click="Tab2_Click"
+                            Background="Transparent" Foreground="{StaticResource TextSecondary}"
+                            FontWeight="SemiBold" FontSize="13" BorderThickness="0"
+                            Padding="16,14,16,16" Cursor="Hand">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border x:Name="bd" Background="Transparent" Padding="{TemplateBinding Padding}"
+                                        BorderThickness="0,0,0,3" BorderBrush="Transparent">
+                                    <ContentPresenter/>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter TargetName="bd" Property="Background" Value="#F1F5F9"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+
+                    <Button x:Name="Tab3" Content="3. Network Topology &amp; Mesh Routing 🔒"
+                            IsEnabled="False" ToolTip="Locked — reserved for final PoE"
+                            Background="Transparent" Foreground="#CBD5E1"
+                            FontWeight="SemiBold" FontSize="13" BorderThickness="0"
+                            Padding="16,14,16,16">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Background="Transparent" Padding="{TemplateBinding Padding}">
+                                    <ContentPresenter/>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </StackPanel>
+            </DockPanel>
+        </Border>
+
+        <!--  CONTENT + OVERLAY  -->
+        <Grid Grid.Row="1">
+            <!-- Tab content -->
+            <Grid x:Name="HostIngestion" Visibility="Collapsed">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <!-- Part 1 archive strip -->
+                <Border Grid.Row="0" Background="#F8FAFC" BorderBrush="{StaticResource BorderBrushColor}"
+                        BorderThickness="0,0,0,1" Padding="20,10">
+                    <DockPanel>
+                        <TextBlock Text="Part 1 modules:" FontSize="11" FontWeight="Bold"
+                                   Foreground="{StaticResource TextSecondary}"
+                                   VerticalAlignment="Center" DockPanel.Dock="Left" Margin="0,0,12,0"/>
+                        <StackPanel Orientation="Horizontal" DockPanel.Dock="Left">
+                            <Button Content="Mesh Signal Radar →" Click="OpenMeshRadar_Click"
+                                    Background="Transparent" Foreground="{StaticResource AccentBlue}"
+                                    FontWeight="SemiBold" BorderThickness="0" Cursor="Hand" Margin="0,0,16,0"/>
+                            <Button Content="Operator Overloads →" Click="OpenTelemetryStream_Click"
+                                    Background="Transparent" Foreground="{StaticResource AccentBlue}"
+                                    FontWeight="SemiBold" BorderThickness="0" Cursor="Hand" Margin="0,0,16,0"/>
+                            <Button Content="Module Overview →" Click="OpenGatewayMenu_Click"
+                                    Background="Transparent" Foreground="{StaticResource AccentCyan}"
+                                    FontWeight="SemiBold" BorderThickness="0" Cursor="Hand"/>
+                        </StackPanel>
+                    </DockPanel>
+                </Border>
+
+                <Grid x:Name="IngestionContentHost" Grid.Row="1"/>
+            </Grid>
+
+            <Grid x:Name="HostCommand" Visibility="Collapsed"/>
+
+            <!--  OVERLAY HOST  -->
+            <!-- Fills the content area (below the tab bar) when an overlay is open. -->
+            <Grid x:Name="OverlayHost" Visibility="Collapsed" Background="#F8FAFC">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <!-- Overlay breadcrumb -->
+                <Border Grid.Row="0" Background="White" BorderBrush="{StaticResource BorderBrushColor}"
+                        BorderThickness="0,0,0,1" Padding="20,10">
+                    <DockPanel>
+                        <Button Content="← Back to Dashboard" Click="BtnOverlayBack_Click"
+                                Background="Transparent" Foreground="{StaticResource AccentBlue}"
+                                FontWeight="SemiBold" BorderThickness="0" Cursor="Hand"
+                                DockPanel.Dock="Left"/>
+                        <TextBlock x:Name="TxtOverlayTitle"
+                                   FontSize="11" FontWeight="Bold"
+                                   Foreground="{StaticResource TextSecondary}"
+                                   VerticalAlignment="Center" HorizontalAlignment="Right"/>
+                    </DockPanel>
+                </Border>
+
+                <!-- Overlay content host -->
+                <Grid x:Name="OverlayContentHost" Grid.Row="1"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

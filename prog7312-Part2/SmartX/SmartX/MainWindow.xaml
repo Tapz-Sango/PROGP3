@@ -1,0 +1,36 @@
+﻿<Window x:Class="SmartX.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Smart-X IoT Mesh Gateway Application" Height="760" Width="1200"
+        WindowStartupLocation="CenterScreen" Background="{StaticResource BgLight}">
+    <Grid>
+        <!-- Row 0: top header bar. Row 1: page content swapped in at runtime -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="64"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header bar with app branding on the left and API status on the right -->
+        <Border Grid.Row="0" Background="{StaticResource CardBg}" BorderBrush="{StaticResource BorderBrushColor}" BorderThickness="0,0,0,1">
+            <DockPanel Margin="24,0">
+                <StackPanel Orientation="Horizontal" DockPanel.Dock="Left" VerticalAlignment="Center">
+                    <TextBlock Text="SMART-X" Foreground="{StaticResource AccentBlue}" FontSize="20" FontWeight="Bold"/>
+                    <TextBlock Text=" | GATEWAY ECOSYSTEM v1.0" Foreground="{StaticResource TextSecondary}" FontSize="13" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" DockPanel.Dock="Right" VerticalAlignment="Center">
+                    <!-- Pill showing the API connection status with a green dot indicator -->
+                    <Border Background="#F1F5F9" CornerRadius="16" Padding="12,6" BorderBrush="{StaticResource BorderBrushColor}" BorderThickness="1">
+                        <StackPanel Orientation="Horizontal">
+                            <Ellipse Width="8" Height="8" Fill="{StaticResource AccentGreen}" Margin="0,0,8,0"/>
+                            <TextBlock x:Name="TxtApiStatus" Text="API: CONNECTED (localhost:7043)" Foreground="{StaticResource TextPrimary}" FontSize="11" FontWeight="SemiBold"/>
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+            </DockPanel>
+        </Border>
+
+        <!-- Host for swapping between views (login, gateway menu, telemetry, etc.) -->
+        <ContentControl x:Name="MainContentFrame" Grid.Row="1"/>
+    </Grid>
+</Window>

@@ -1,0 +1,7 @@
+schema: "classroom50/repo-config/v1"
+classroom: "prog7312-2026"
+assignment: "prog7312-part-1"
+owner:
+  username: "Sango-Tapiwa"
+  id: 128785990
+  accepted_at: "2026-08-25T11:19:03Z"

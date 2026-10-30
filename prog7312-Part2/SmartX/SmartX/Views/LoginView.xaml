@@ -1,0 +1,46 @@
+﻿<UserControl x:Class="SmartX.Views.LoginView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- Centers the login card both horizontally and vertically -->
+    <Grid VerticalAlignment="Center" HorizontalAlignment="Center">
+        <Border Background="{StaticResource CardBg}" CornerRadius="12" Padding="36" Width="420"
+                BorderBrush="{StaticResource BorderBrushColor}" BorderThickness="1">
+            <StackPanel>
+                <TextBlock Text="Gateway Authentication" Foreground="{StaticResource TextPrimary}"
+                           FontSize="22" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,24"/>
+
+                <!-- Email input -->
+                <TextBlock Text="Email Address" Foreground="{StaticResource TextSecondary}"
+                           FontSize="12" FontWeight="SemiBold" Margin="0,0,0,6"/>
+                <TextBox x:Name="TxtEmail" Text="guest@smartx.io" Margin="0,0,0,16"/>
+
+                <!-- Password input -->
+                <TextBlock Text="Password" Foreground="{StaticResource TextSecondary}"
+                           FontSize="12" FontWeight="SemiBold" Margin="0,0,0,6"/>
+                <PasswordBox x:Name="TxtPassword" Password="admin123" Margin="0,0,0,24"/>
+
+                <!-- Primary login button (NOW NAMED) -->
+                <Button x:Name="BtnLogin"
+                        Content="LOGIN TO GATEWAY"
+                        Style="{StaticResource ModernButton}"
+                        Click="BtnLogin_Click"
+                        Margin="0,0,0,12"/>
+
+                <!-- Demo credential filler -->
+                <Button Content="Fill Demo Credentials"
+                        Background="Transparent"
+                        Foreground="{StaticResource AccentCyan}"
+                        FontWeight="SemiBold"
+                        BorderThickness="0"
+                        Click="BtnGuest_Click"
+                        Cursor="Hand"/>
+
+                <!-- Error message hidden by default -->
+                <TextBlock x:Name="TxtError" Foreground="{StaticResource AccentRed}"
+                           Margin="0,12,0,0" HorizontalAlignment="Center"
+                           Visibility="Collapsed" FontWeight="SemiBold"
+                           TextWrapping="Wrap"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</UserControl>

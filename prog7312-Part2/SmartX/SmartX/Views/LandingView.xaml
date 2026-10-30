@@ -1,0 +1,86 @@
+﻿<UserControl x:Class="SmartX.Views.LandingView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid>
+        <!-- Hero band -->
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="#0F172A" Offset="0"/>
+                <GradientStop Color="#1E293B" Offset="0.6"/>
+                <GradientStop Color="#2563EB" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Grid Margin="60">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0" VerticalAlignment="Center">
+                <!-- Logo block -->
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,32">
+                    <Border Background="#2563EB" CornerRadius="14" Padding="18,12">
+                        <TextBlock Text="SX" Foreground="White" FontSize="28" FontWeight="Bold"/>
+                    </Border>
+                    <StackPanel Margin="16,0,0,0" VerticalAlignment="Center">
+                        <TextBlock Text="SMART-X" Foreground="White" FontSize="26" FontWeight="Bold"/>
+                        <TextBlock Text="IoT Edge Gateway Ecosystem" Foreground="#93C5FD" FontSize="13"/>
+                    </StackPanel>
+                </StackPanel>
+
+                <TextBlock Text="Monitor. Predict. Command." Foreground="White" FontSize="42" FontWeight="Bold" Margin="0,0,0,20"/>
+                <TextBlock Foreground="#CBD5E1" FontSize="16" TextWrapping="Wrap" MaxWidth="560" Margin="0,0,0,40"
+                           Text="An enterprise-grade IoT gateway platform for ESP32 telemetry ingestion, real-time command streaming, priority alert handling, predictive automation, and encrypted device-log storage."/>
+
+                <!-- Feature chips -->
+                <WrapPanel Margin="0,0,0,40">
+                    <Border Background="#1E40AF" CornerRadius="20" Padding="14,8" Margin="0,0,10,10">
+                        <TextBlock Text="Real-time telemetry" Foreground="White" FontSize="12"/>
+                    </Border>
+                    <Border Background="#1E40AF" CornerRadius="20" Padding="14,8" Margin="0,0,10,10">
+                        <TextBlock Text="Priority alert queue" Foreground="White" FontSize="12"/>
+                    </Border>
+                    <Border Background="#1E40AF" CornerRadius="20" Padding="14,8" Margin="0,0,10,10">
+                        <TextBlock Text="Predictive insights" Foreground="White" FontSize="12"/>
+                    </Border>
+                    <Border Background="#1E40AF" CornerRadius="20" Padding="14,8" Margin="0,0,10,10">
+                        <TextBlock Text="AES-256 encrypted logs" Foreground="White" FontSize="12"/>
+                    </Border>
+                </WrapPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <Button Content="ENTER GATEWAY  →" Click="BtnEnter_Click"
+                            Background="White" Foreground="#0F172A" FontWeight="Bold" FontSize="14"
+                            Padding="26,14" BorderThickness="0" Cursor="Hand">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Background="{TemplateBinding Background}" CornerRadius="8" Padding="{TemplateBinding Padding}">
+                                    <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </StackPanel>
+            </StackPanel>
+
+            <!-- Right visual -->
+            <Border Grid.Column="1" Background="#0B1220" CornerRadius="16" Padding="30" Width="360" VerticalAlignment="Center"
+                    BorderBrush="#1E293B" BorderThickness="1">
+                <StackPanel>
+                    <TextBlock Text="SYSTEM STATUS" Foreground="#64748B" FontSize="11" FontWeight="Bold"/>
+                    <TextBlock Text="All services operational" Foreground="#22C55E" FontSize="14" FontWeight="SemiBold" Margin="0,6,0,20"/>
+
+                    <TextBlock Text="API endpoint" Foreground="#64748B" FontSize="11"/>
+                    <TextBlock Text="http://localhost:5245" Foreground="#E2E8F0" FontFamily="Consolas" Margin="0,4,0,16"/>
+
+                    <TextBlock Text="Modules online" Foreground="#64748B" FontSize="11"/>
+                    <TextBlock Text="Telemetry • Commands" Foreground="#E2E8F0" Margin="0,4,0,16"/>
+
+                    <TextBlock Text="Pending PoE" Foreground="#64748B" FontSize="11"/>
+                    <TextBlock Text="Mesh Routing (locked)" Foreground="#F59E0B" Margin="0,4,0,0"/>
+                </StackPanel>
+            </Border>
+        </Grid>
+    </Grid>
+</UserControl>

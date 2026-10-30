@@ -1,0 +1,497 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\sample-devices.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:sample-devices.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx\\views\\meshmatrixview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\meshmatrixview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx\\views\\meshmatrixview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\meshmatrixview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx\\views\\sensoringestionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\sensoringestionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx\\views\\commandstreamview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\commandstreamview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx\\views\\commandstreamview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\commandstreamview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx\\views\\gatewaymenuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\gatewaymenuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx\\views\\gatewaymenuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\gatewaymenuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx\\views\\landingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\landingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx\\views\\landingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\views\\landingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx\\models\\prediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\models\\prediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx\\models\\commandrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\models\\commandrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208F12F6-66D8-9CDD-E8AF-E246E212901F}|SmartX\\SmartX.csproj|solutionrelative:smartx\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx.api\\models\\commandstreammodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\models\\commandstreammodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx.api\\smartx.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\smartx.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx.api\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx.api\\datastructures\\predictiveengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\datastructures\\predictiveengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx.api\\datastructures\\disconnectednodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\datastructures\\disconnectednodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx.api\\datastructures\\sensortimeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\datastructures\\sensortimeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx.api\\datastructures\\commandundostack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\datastructures\\commandundostack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx.api\\datastructures\\criticalalertqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\datastructures\\criticalalertqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx.api\\datastructures\\telemetryqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\datastructures\\telemetryqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|c:\\users\\clearwater\\downloads\\prog7312-part1\\smartx\\smartx.api\\datastructures\\deviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC033E8-F118-24ED-0DDC-C7AEE228B8D8}|SmartX.Api\\SmartX.Api.csproj|solutionrelative:smartx.api\\datastructures\\deviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sample-devices.txt",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\sample-devices.txt",
+              "RelativeDocumentMoniker": "sample-devices.txt",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\sample-devices.txt",
+              "RelativeToolTip": "sample-devices.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-15T12:23:52.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MeshMatrixView.xaml",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\MeshMatrixView.xaml",
+              "RelativeDocumentMoniker": "SmartX\\Views\\MeshMatrixView.xaml",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\MeshMatrixView.xaml",
+              "RelativeToolTip": "SmartX\\Views\\MeshMatrixView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-14T20:29:30.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeshMatrixView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\MeshMatrixView.xaml.cs",
+              "RelativeDocumentMoniker": "SmartX\\Views\\MeshMatrixView.xaml.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\MeshMatrixView.xaml.cs",
+              "RelativeToolTip": "SmartX\\Views\\MeshMatrixView.xaml.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAcwL0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T20:28:43.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SensorIngestionView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\SensorIngestionView.xaml.cs",
+              "RelativeDocumentMoniker": "SmartX\\Views\\SensorIngestionView.xaml.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\SensorIngestionView.xaml.cs",
+              "RelativeToolTip": "SmartX\\Views\\SensorIngestionView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T20:22:14.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommandStreamView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\CommandStreamView.xaml.cs",
+              "RelativeDocumentMoniker": "SmartX\\Views\\CommandStreamView.xaml.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\CommandStreamView.xaml.cs",
+              "RelativeToolTip": "SmartX\\Views\\CommandStreamView.xaml.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAiwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T20:20:33.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommandStreamView.xaml",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\CommandStreamView.xaml",
+              "RelativeDocumentMoniker": "SmartX\\Views\\CommandStreamView.xaml",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\CommandStreamView.xaml",
+              "RelativeToolTip": "SmartX\\Views\\CommandStreamView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-14T20:19:38.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GatewayMenuView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\GatewayMenuView.xaml.cs",
+              "RelativeDocumentMoniker": "SmartX\\Views\\GatewayMenuView.xaml.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\GatewayMenuView.xaml.cs",
+              "RelativeToolTip": "SmartX\\Views\\GatewayMenuView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T20:13:57.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "SmartX\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\LoginView.xaml",
+              "RelativeToolTip": "SmartX\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-14T20:07:14.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "SmartX\\Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "SmartX\\Views\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T20:06:27.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LandingView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\LandingView.xaml.cs",
+              "RelativeDocumentMoniker": "SmartX\\Views\\LandingView.xaml.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\LandingView.xaml.cs",
+              "RelativeToolTip": "SmartX\\Views\\LandingView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T20:05:53.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LandingView.xaml",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\LandingView.xaml",
+              "RelativeDocumentMoniker": "SmartX\\Views\\LandingView.xaml",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\LandingView.xaml",
+              "RelativeToolTip": "SmartX\\Views\\LandingView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-14T20:04:47.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GatewayMenuView.xaml",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\GatewayMenuView.xaml",
+              "RelativeDocumentMoniker": "SmartX\\Views\\GatewayMenuView.xaml",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Views\\GatewayMenuView.xaml",
+              "RelativeToolTip": "SmartX\\Views\\GatewayMenuView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-14T20:01:42.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SmartX\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SmartX\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:59:05.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Prediction.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Models\\Prediction.cs",
+              "RelativeDocumentMoniker": "SmartX\\Models\\Prediction.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Models\\Prediction.cs",
+              "RelativeToolTip": "SmartX\\Models\\Prediction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:58:08.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommandRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Models\\CommandRecord.cs",
+              "RelativeDocumentMoniker": "SmartX\\Models\\CommandRecord.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Models\\CommandRecord.cs",
+              "RelativeToolTip": "SmartX\\Models\\CommandRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:57:31.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "SmartX\\Models\\Device.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Models\\Device.cs",
+              "RelativeToolTip": "SmartX\\Models\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:56:18.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "SmartX\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Services\\ApiService.cs",
+              "RelativeToolTip": "SmartX\\Services\\ApiService.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAA2wPIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:53:53.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "SmartX\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX\\Services\\AuthService.cs",
+              "RelativeToolTip": "SmartX\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:52:22.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\Program.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\Program.cs",
+              "RelativeToolTip": "SmartX.Api\\Program.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAcwCIBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:48:10.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CommandStreamModels.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\Models\\CommandStreamModels.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\Models\\CommandStreamModels.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\Models\\CommandStreamModels.cs",
+              "RelativeToolTip": "SmartX.Api\\Models\\CommandStreamModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:46:37.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\Services\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\Services\\EncryptionService.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\Services\\EncryptionService.cs",
+              "RelativeToolTip": "SmartX.Api\\Services\\EncryptionService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:44:00.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\Services\\AuthService.cs",
+              "RelativeToolTip": "SmartX.Api\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:42:56.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PredictiveEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\DataStructures\\PredictiveEngine.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\DataStructures\\PredictiveEngine.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\DataStructures\\PredictiveEngine.cs",
+              "RelativeToolTip": "SmartX.Api\\DataStructures\\PredictiveEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:40:24.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DisconnectedNodes.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\DataStructures\\DisconnectedNodes.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\DataStructures\\DisconnectedNodes.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\DataStructures\\DisconnectedNodes.cs",
+              "RelativeToolTip": "SmartX.Api\\DataStructures\\DisconnectedNodes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:39:03.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SensorTimeline.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\DataStructures\\SensorTimeline.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\DataStructures\\SensorTimeline.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\DataStructures\\SensorTimeline.cs",
+              "RelativeToolTip": "SmartX.Api\\DataStructures\\SensorTimeline.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:38:29.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CommandUndoStack.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\DataStructures\\CommandUndoStack.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\DataStructures\\CommandUndoStack.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\DataStructures\\CommandUndoStack.cs",
+              "RelativeToolTip": "SmartX.Api\\DataStructures\\CommandUndoStack.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:37:36.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CriticalAlertQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\DataStructures\\CriticalAlertQueue.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\DataStructures\\CriticalAlertQueue.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\DataStructures\\CriticalAlertQueue.cs",
+              "RelativeToolTip": "SmartX.Api\\DataStructures\\CriticalAlertQueue.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:37:03.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TelemetryQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\DataStructures\\TelemetryQueue.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\DataStructures\\TelemetryQueue.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\DataStructures\\TelemetryQueue.cs",
+              "RelativeToolTip": "SmartX.Api\\DataStructures\\TelemetryQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:36:19.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SmartX.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\SmartX.Api.csproj",
+              "RelativeDocumentMoniker": "SmartX.Api\\SmartX.Api.csproj",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\SmartX.Api.csproj",
+              "RelativeToolTip": "SmartX.Api\\SmartX.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-14T19:34:17.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeviceRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\DataStructures\\DeviceRegistry.cs",
+              "RelativeDocumentMoniker": "SmartX.Api\\DataStructures\\DeviceRegistry.cs",
+              "ToolTip": "C:\\Users\\Clearwater\\Downloads\\prog7312-Part1\\SmartX\\SmartX.Api\\DataStructures\\DeviceRegistry.cs",
+              "RelativeToolTip": "SmartX.Api\\DataStructures\\DeviceRegistry.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:35:22.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
